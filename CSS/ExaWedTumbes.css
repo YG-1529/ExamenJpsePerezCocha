@@ -1,0 +1,240 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: "calibri light"
+}
+
+#linea{
+	width: 100%;
+	height: 5px;
+	background:  #3498db;
+
+}
+
+#header{
+	width: 100%;
+	height: 90px;
+	background:#b03a2e ; 
+}
+
+#header  #centro1{
+	width: 800px;
+	height: auto;
+	overflow:hidden; 
+	border:0px  solid; 
+	margin:auto;
+}
+
+#header #centro1 #logo{
+	width: 200px;
+	border:0px solid;
+	float:left;
+}
+
+#header #centro1 #logo h2,p{
+    color:  #fff;
+ 
+
+}
+
+ #header #centro1 #logo p{
+ 	margin-top: -20px;
+
+}
+
+/*---------menu------*/
+
+#header #menu{
+	width: 580px;
+	height: auto;
+	overflow: hidden;
+	border:0px solid;
+	float: right;
+	text-align:right; 
+}
+
+#header #menu ul li{
+	display:inline-block; 
+}
+
+#header #menu ul li a{
+	color:#fff;
+	text-decoration: none;
+	padding: 7px 10px;
+	margin:0px 4px; 
+}
+
+#header #menu ul li a:hover{
+    background:  #f2d7d5 ;
+}
+
+/*--------presentacion-----*/
+
+#presentacion {
+	
+	width: 100%;
+	height: auto;
+	overflow:hidden;
+	background:  #fff ;
+}
+ #presentacion h2{
+ 	text-align: center;
+	font-family: arial;
+	font-size: 20px;
+	padding-top: 2%;
+	color: #04B4AE;
+ }
+
+ #presentacion p{
+ 	text-align: center;
+	font-family: arial;
+	font-size: 20px;
+	padding-top: 1%;
+	color:#151312 ;
+  
+}  
+
+#presentacion img{
+	margin-left: 16%;
+	width: 70%;
+}
+ #izquierda {
+   width: 70%;
+   height: 300px;
+   margin-left: 15%
+
+ }
+
+ #presentacion button{
+    margin-left: 46%;
+ }
+
+  #iframe{
+ 	width: 100%;
+	height:100%;
+ }
+.video{
+	width: 70%;
+	height: 450px;
+	margin-left: 15%;
+}
+
+.video iframe{
+	width: 100%;
+	height: 100%;
+}
+ 
+ .pag3 h1{
+	text-align: center;
+	width: 100%;
+	height: 45px;
+
+}
+
+.pag3 {
+	width: 70%;
+	height: 800px; /*100% largo*/
+	background-color: #fff ;
+	margin-left: 15%;
+}
+
+.pag3 p{  
+	text-align: center;
+	width: 100%;
+	height: 45px;
+	color:#000;
+}
+
+.pag3 input{ 
+	width: 100%;
+	height: 40px; 
+    margin-top: 2%;
+
+} 
+
+.pag3 textarea{
+	font-size: 40px;
+    width: 100%;
+}
+
+.boton {
+  border-radius:3px;
+  margin-left: 46%;
+  padding:20px 15px;
+  text-decoration: none;
+  display:20px 15px;
+}
+
+.pag4{
+	width: 70%;
+	height: 400px;
+	margin-left: 15%;
+}
+
+.pag4 h2{
+	text-align: center;
+	font-family: arial;
+	font-size: 30px;
+	padding-top: 3%
+}
+
+.titu{
+	width: 100%;
+	height: 20%;
+}
+
+ .mapa{
+ 	width: 100%;
+ 	height: 80%;
+ }
+
+ .mapa iframe{
+ 	width: 100%;
+ 	height: 100%;
+ }
+ 
+ #iframe{
+ 	width: 100%;
+	height:100%;
+ }
+
+
+ .video2{
+	width: 100%;
+	height: 350px;
+	background-color: red;
+	margin-top: 4%
+}
+
+.video2 iframe{
+	width: 100%;
+	height: 100%;
+}
+
+
+
+.video2 iframe{
+	width: 100%;
+	height: 100%;
+}
+
+#linea2{
+	width: 100%;
+	height: 5px;
+	background:  #3498db;
+
+}
+
+#logo2{
+	width: 100%;
+	height:200px; 
+	background-color: #b03a2e;
+	margin-top: 45%;
+}
+
+.header{
+	width: 900px;
+	height: 100px;
+	border:1px solid #000;
+}
+
